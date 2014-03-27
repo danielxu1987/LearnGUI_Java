@@ -31,7 +31,6 @@ public class MouseDetails extends JFrame
 	{
 		@Override
 		public void mouseClicked(MouseEvent e) {
-			// TODO Auto-generated method stub
 			super.mouseClicked(e);
 			
 			xPos = e.getX();
